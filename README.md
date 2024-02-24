@@ -1,6 +1,6 @@
 # leak-code
-leak-code,this a pipeline leak detection project based on deep learning
-delete C
+leak-code,this a pipeline leak detection project based on deep learning.
+delete CapsNet.
 
 download and dataset :
 链接：https://pan.baidu.com/s/1uIRQRNYDS-N7vEnh5iSiKw 
